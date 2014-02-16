@@ -1,0 +1,9 @@
+D:\Project c#\TimetableComparator\TimetableComparator\bin\Debug\TimetableComparator.exe.config
+D:\Project c#\TimetableComparator\TimetableComparator\bin\Debug\TimetableComparator.exe
+D:\Project c#\TimetableComparator\TimetableComparator\bin\Debug\TimetableComparator.pdb
+D:\Project c#\TimetableComparator\TimetableComparator\obj\Debug\TimetableComparator.csprojResolveAssemblyReference.cache
+D:\Project c#\TimetableComparator\TimetableComparator\obj\Debug\TimetableComparator.FormMain.resources
+D:\Project c#\TimetableComparator\TimetableComparator\obj\Debug\TimetableComparator.Properties.Resources.resources
+D:\Project c#\TimetableComparator\TimetableComparator\obj\Debug\TimetableComparator.csproj.GenerateResource.Cache
+D:\Project c#\TimetableComparator\TimetableComparator\obj\Debug\TimetableComparator.exe
+D:\Project c#\TimetableComparator\TimetableComparator\obj\Debug\TimetableComparator.pdb
