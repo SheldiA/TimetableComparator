@@ -106,6 +106,7 @@
             this.bt_compare.TabIndex = 7;
             this.bt_compare.Text = "button3";
             this.bt_compare.UseVisualStyleBackColor = true;
+            this.bt_compare.Click += new System.EventHandler(this.bt_compare_Click);
             // 
             // rtb_result
             // 

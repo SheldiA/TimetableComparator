@@ -12,6 +12,7 @@ namespace TimetableComparator
 {
     public partial class FormMain : Form
     {
+        
         public FormMain()
         {
             InitializeComponent();
@@ -27,6 +28,12 @@ namespace TimetableComparator
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK && openFileDialog1.FileName.Length > 0)
                 tb_timetable2.Text = openFileDialog1.FileName;
+        }
+
+        private void bt_compare_Click(object sender, EventArgs e)
+        {
+            TimetableComparator tc = new TimetableComparator(tb_timetable1.Text,tb_timetable2.Text);
+            tc.Compare(nud_numberWeek.Value.ToString(), nud_subgroup1.Value.ToString(), nud_subgroup2.Value.ToString());
         }
     }
 }
